@@ -1,4 +1,4 @@
 recipebook
 ==========
 
-Recipe Management app for Tablet.
+Recipe management application for android tablets - 4.0+.
