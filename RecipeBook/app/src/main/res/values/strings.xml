@@ -2,7 +2,24 @@
 <resources>
 
     <string name="app_name">Recipe Book</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+
+    <!-- Actions -->
+    <string name="add_recipe">Settings</string>
+
+    <!-- Categories -->
+    <string-array name="categories">
+        <item>Appetizers</item>
+        <item>Beverages</item>
+        <item>Soups</item>
+        <item>Salads</item>
+        <item>Vegetables</item>
+        <item>Sides</item>
+        <item>Mains</item>
+        <item>Breads</item>
+        <item>Deserts</item>
+        <item>Cookies</item>
+        <item>Candies</item>
+        <item>Misc</item>
+    </string-array>
 
 </resources>
